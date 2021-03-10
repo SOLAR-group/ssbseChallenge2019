@@ -1,6 +1,8 @@
 # Software Improvement with Gin: a Case Study
 
-This is an artefact to accompany the "Software Improvement with Gin: a Case Study" paper by Justyna Petke and Sandy Brownlee, accepted to the [SSBSE 2019 Challenge Track](http://ssbse19.mines-albi.fr/tracks.html#challenge-track).
+This is an artefact to accompany the "Software Improvement with Gin: a Case Study" paper by Justyna Petke and Sandy Brownlee, accepted to the [SSBSE 2019 Challenge Track](http://ssbse19.mines-albi.fr/tracks.html#challenge-track). 
+
+The instructions below will help you reproduce the experiment. For better performance we recommend to use the latest version of [Gin](https://github.com/gintool/gin/), which already contains a genetic algorithm. You can use exactly the same commands as outlined below, without having to copy over to files from the gp folder.
 
 This repository contains: gp folder with source code of our new GP classes, input files, and output files (all patches and runtimes). We used Java 8, Gradle 4.6 for Gin and Maven 3.6 for Gson in our experiments.
 
