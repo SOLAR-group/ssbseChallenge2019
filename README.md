@@ -13,7 +13,7 @@ Create gin.jar: Download the source code for [Gin v2.0](https://github.com/ginto
 Once done, please follow the following steps:
 
 ```
-git clone https://github.com/justynapt/ssbseChallenge2019.git
+git clone https://github.com/SOLAR-group/ssbseChallenge2019.git
 cd ssbseChallenge2019
 git clone https://github.com/google/gson.git gson
 cd gson
